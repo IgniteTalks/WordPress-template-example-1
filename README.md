@@ -19,7 +19,11 @@ but you can include anything you like here.
 
 Under the > Appearance > Customize > Menus section, set your main menu in the Navigation section (if you don't already have a menu, configure it under > Appearance > Menus).
 
-The Dazzling theme has the option to include a "featured" post at the top of the homepage. To set this up:
+The Dazzling theme has the option to include a "featured" post at the top of the homepage:
+
+![about](http://i.imgur.com/GryLqhj.jpg)
+
+To set this up:
 
 - under > Posts > Categories set up a new category "about"
 - create a new post and include the details you'd like to appear on the homepage
@@ -29,4 +33,4 @@ The Dazzling theme has the option to include a "featured" post at the top of the
 - specify the category "about" for the Slider Category
 - choose the number of slide items (for IgniteSydney I use a single post only)
 
-![about](http://i.imgur.com/GryLqhj.jpg)
+![theme options](http://i.imgur.com/f5Wqj9O.png)
