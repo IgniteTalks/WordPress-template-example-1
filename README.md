@@ -21,14 +21,15 @@ Under the > Appearance > Customize > Menus section, set your main menu in the Na
 
 The Dazzling theme has the option to include a "featured" post at the top of the homepage:
 
-![about](http://i.imgur.com/GryLqhj.jpg)
-
 To set this up:
 
 - under > Posts > Categories set up a new category "about"
 - create a new post and include the details you'd like to appear on the homepage
 - add this post to the "about" category
 - set a [featured image](https://en.support.wordpress.com/featured-images/) for this post
+
+![about](http://i.imgur.com/GryLqhj.jpg)
+
 - under > Appearance > Theme Options ensure the option to show the slider is checked on
 - specify the category "about" for the Slider Category
 - choose the number of slide items (for IgniteSydney I use a single post only)
